@@ -15,4 +15,5 @@ class Produk extends Model
         'stok',
         'deskripsi'
     ];
+    
 }
